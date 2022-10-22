@@ -1,5 +1,6 @@
 
-- 🌱 I’m currently learning github..
+Welcome to my GitHub
+
 
 <!---
 tlquick/tlquick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
