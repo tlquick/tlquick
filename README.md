@@ -1,7 +1,7 @@
 
 Welcome to my GitHub <br>
 
-Check out some of my new Spring Boot and AWS lambda projects.
+Check out some of my new Spring Boot and MERN projects here.
 You will also find some perl, python and java se projects archived here.
 
 <!---
