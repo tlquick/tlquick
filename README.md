@@ -1,7 +1,7 @@
 
 Welcome to my GitHub <br>
 
-Check out some of my new Spring Boot and MERN projects here.
+Check out some of my new Spring Boot and MERN/PERN projects here.
 You will also find some perl, python, javascript and java se projects archived here.
 
 <!---
