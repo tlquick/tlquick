@@ -1,6 +1,6 @@
 
 ![Banner](/banner.jpg?raw=true "name banner")
-<p align="center" >Hi :hand:, I'm Tracy. I have been a software engineer :technologist: and IT coordinator (lecturer/tutor etc) :student:. <br> 
+<p align="center" >Hi :hand:, I'm Tracy. I have been a senior software engineer (C++) :technologist: and IT educator/coordinator (working as a lecturer/tutor etc) :student:. <br> 
 Right now, I am focussed on full stack development :computer: in Java and JavaScript, with some DevOps thown in for fun 😃.<br>
 I love to learn new things and add them to my toolbox 🧰 </p>
 
