@@ -22,7 +22,7 @@ and have created different types of databases like ![MongoDB](https://img.shield
 (Atlas)  <li>FRONTEND (ReactTrumpQuotes): ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</li>
 </ul>
 <br>
-What next?: ZhuZhuHeaven - under construction - ecommerce website selling ZhuZhu pets (*giggles)
+What next?: ZhuZhuHeaven - under construction - ecommerce website selling ZhuZhu pets 😆 😅
 
 
 You will also find some perl, python, javascript and java SE projects archived here.
