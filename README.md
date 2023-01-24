@@ -22,10 +22,12 @@ and have created different types of databases like ![MongoDB](https://img.shield
 (Atlas)  <li>FRONTEND (ReactTrumpQuotes): ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</li>
 </ul>
 <br>
-What next?: ZhuZhuHeaven - under construction - ecommerce website selling ZhuZhu pets 😆 😅
+<h1>Under Construction</h1> <br>
+What next?: ZhuZhuHeaven - MERN - ecommerce website selling ZhuZhu pets 😆 😅
+<br>
+<br>
 
-
-You will also find some perl, python, javascript and java SE projects archived here.
+Please note: You will also find some Java SE enterprise applications, Java ME mobile apps, perl, python and javascript projects archived here.
 
 <!---
 tlquick/tlquick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
