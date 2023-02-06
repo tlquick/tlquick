@@ -46,8 +46,8 @@ What next?: [ZhuZhuHeaven](https://github.com/tlquick/ZhuZhuHeaven) - MERN - eco
 | ------------- | ------------- |
 | [SpringBootDemo](https://github.com/tlquick/SpringBootDemo) | Demo using Hibernate to connect to Postgres database, circa 2023 |
 | [HouseAnimation](https://github.com/tlquick/HouseAnimation)  | GUI Java ME project using midlet, written as a sample assessment for IIPR001, circa 2014  |
-| [Chess](https://github.com/tlquick/Chess)  | GUI Java SE project using swing, written as an assessment for IAPP001 circa 2012  |
-| [Pokie](https://github.com/tlquick/Pokie) | GUI Java SE project using swing, written as an assessment for IAPP001, circa 2010  |
+| [Chess](https://github.com/tlquick/Chess)  | GUI Java SE project using swing, written as an assessment solution for IAPP001 circa 2012  |
+| [Pokie](https://github.com/tlquick/Pokie) | GUI Java SE project using swing, written as an assessment solution for IAPP001, circa 2010  |
 | [SnakesAndLadders](https://github.com/tlquick/SnakesAndLadders)  | GUI Java SE project using swing, written as a scaffolded learning exercise for IAPP001, circa 2010  |
 
 
