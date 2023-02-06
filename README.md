@@ -59,7 +59,7 @@ What next?: [ZhuZhuHeaven](https://github.com/tlquick/ZhuZhuHeaven) - MERN - eco
 | [TrumpQuoteAPI](https://github.com/tlquick/TrumpQuoteAPI)  | Demo using mongoDB with tiny Express API, circa 2023  |
 | [ReactToDoCRUD](https://github.com/tlquick/ReactToDoCRUD)  | Demo using React to perform basic CRUD actions, circa 2020 |
 | [SimpleWeatherApp](https://github.com/tlquick/SimpleWeatherApp) | Demo using vanilla JS to consume weather API, circa 2020  |
-| [RockPaperScissors](https://github.com/tlquick/RockPapaerScissors) | Small web app game using vanilla JS , circa 2019 |
+| [RockPaperScissors](https://github.com/tlquick/RockPaperScissors) | Small web app game using vanilla JS , circa 2019 |
 | [EmailValidation](https://github.com/tlquick/EmailValidation)  | Demo using regex to validate an email address in vanilla JS, circa 2018  |
 | [InventoryCRUD](https://github.com/tlquick/InventoryCRUD)  | Demo CRUD app in vanilla JS, circa 2015 |
 
