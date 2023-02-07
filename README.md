@@ -28,7 +28,7 @@ Tested with: <br>
 
 <b>TrumpQuotes: </b> A multi repository serverless web app delivering random quotes from Donald Trump: <br> 
 
-  * BACKEND ([LambdaTrumpQuotes](https://github.com/tlquick/LambdaTrumpQuotes)): <br>
+  * BACKEND ([LambdaTrumpQuotes]([https://github.com/tlquick/LambdaTrumpQuotesAPI](https://github.com/tlquick/LambdaTrumpQuotesAPI))): <br>
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br> Also uses Lambda and API Gateway.
  
   * FRONTEND ([ReactTrumpQuotes](https://github.com/tlquick/reactTrumpQuotes)): <br>
