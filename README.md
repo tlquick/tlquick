@@ -28,16 +28,21 @@ Tested with: <br>
 
 <b>TrumpQuotes: </b> A multi repository serverless web app delivering random quotes from Donald Trump: <br> 
 
-  * BACKEND ([LambdaTrumpQuotes]([https://github.com/tlquick/LambdaTrumpQuotesAPI](https://github.com/tlquick/LambdaTrumpQuotesAPI))): <br>
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br> Also uses Lambda and API Gateway.
+  * BACKEND ([LambdaTrumpQuotesAPI](https://github.com/tlquick/LambdaTrumpQuotesAPI)): <br>
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br> Uses AWS Lambda and API Gateway.
  
   * FRONTEND ([ReactTrumpQuotes](https://github.com/tlquick/reactTrumpQuotes)): <br>
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 <br>
+<br>
+
+<b>[ZhuZhuHeaven](https://github.com/tlquick/ZhuZhuHeaven): </b> Mock ecommerce website selling ZhuZhu pets 😆 😅 <br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white), ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white), ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white). <br>
+Tested with: <br> ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
 ## Under Construction <br>
-What next?: [ZhuZhuHeaven](https://github.com/tlquick/ZhuZhuHeaven) - MERN - ecommerce website selling ZhuZhu pets 😆 😅
-<br>
+What next?: Back to some Java projects
 <br>
 
 ## Other Projects 
