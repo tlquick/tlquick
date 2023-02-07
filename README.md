@@ -72,7 +72,7 @@ What next?: Back to some Java projects
 <b> Other </b>
 | Project Name  | Project Description |
 | ------------- | ------------- |
-| [Basic-Data-Analysis](https://github.com/tlquick/Basic-Data-Analysis)  | Python project: clean and visualise dtata imported from csv, uses numPY, pandas and matPlotLib, circa 2021  |
+| [Basic-Data-Analysis](https://github.com/tlquick/Basic-Data-Analysis)  | Python project: clean and visualise data imported from csv, uses numPY, pandas and matPlotLib, circa 2021  |
 | [mailTo](https://github.com/tlquick/mailTo) | Perl project:  used to send marking feedback to all students in all tutorials after marking moderation, circa 2010 |
 | [AssignmentExtractor](https://github.com/tlquick/AssignmentExtractor) | Perl project: used to extract and sort student assignments into tutorial groups ready for marking, circa 2010  |
 
