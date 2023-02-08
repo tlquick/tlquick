@@ -48,7 +48,7 @@ What next?: Back to some Spring Boot projects.. maybe something with postgres, d
 <b> Java projects </b>
 |Project Name | Project Description |
 | ------------- | ------------- |
-| [SpringBootDemo](https://github.com/tlquick/SpringBootDemo) | Demo using Hibernate to connect to Postgres database. Swagger used to generate API documentation, circa 2023 |
+| [SpringBootDemo](https://github.com/tlquick/SpringBootDemo) | Demo using Hibernate to connect to Postgres database. Swagger used to generate API documentation, Docker Compose used to manage db and app containers, circa 2023 |
 | [HouseAnimation](https://github.com/tlquick/HouseAnimation)  | GUI Java ME project using midlet, written as a sample assessment for IIPR001, circa 2014  |
 | [Chess](https://github.com/tlquick/Chess)  | GUI Java SE project using swing, written as an assessment solution for IAPP001 circa 2012  |
 | [Pokie](https://github.com/tlquick/Pokie) | GUI Java SE project using swing, written as an assessment solution for IAPP001, circa 2010  |
