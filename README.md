@@ -14,7 +14,7 @@ I have created different types of databases using: <br>
 
 ## Recent Projects <br> 
 
-<b>[SpringBoot Pokie](https://github.com/tlquick/SpringBootPokie) </b> : A poker machine applications written using: <br>
+<b>[SpringBoot Pokie](https://github.com/tlquick/SpringBootPokie) </b> : A poker machine application written using: <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white), ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white), ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white),![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white), ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white), ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br>
 
 <b>[Vehicles API](https://github.com/tlquick/VehiclesAPI): </b> An API returning vehicle details using: <br>
