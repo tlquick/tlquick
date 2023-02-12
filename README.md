@@ -41,7 +41,7 @@ Tested with: <br> ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for
 
 
 ## Under Construction <br>
-What next?: Back to some Spring Boot projects.. maybe something with postgres, docker, maybe some kubernetes too.....
+What next?: Back to some Spring Boot projects.. maybe something deployed to AWS...maybe some kubernetes too.....
 <br>
 
 ## Other Projects 
