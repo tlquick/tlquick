@@ -2,7 +2,8 @@
 ![Banner](/banner.jpg?raw=true "name banner")
 <p align="center" >Hi :hand:, I'm Tracy. I have been a senior software engineer (C++ and some Java) :technologist: and IT educator/coordinator (working as a lecturer/tutor etc) :student: teaching Java and some Python. <br> 
 Right now, I am focussed on full stack development :computer: in Java and JavaScript, with some DevOps thown in for fun 😃.<br>
-I love to learn new things and add them to my toolbox 🧰 </p>
+I love to learn new things and add them to my toolbox 🧰 <br>
+See my portfolio website: https://tracyquickportfolio.netlify.app/ </p>
 
 ## Technical Skills <br>
 
