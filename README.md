@@ -18,10 +18,6 @@ I have created different types of databases using: <br>
 <b>[SpringBoot Pokie](https://github.com/tlquick/SpringBootPokie) </b> : A poker machine application written using: <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white), ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white), ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white),![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white), ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white), ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br>
 
-<b>[Vehicles API](https://github.com/tlquick/VehiclesAPI): </b> An API returning vehicle details using: <br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white), ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white). <br>
-Tested with: <br> ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
 <b>[Simple Chat App](https://github.com/tlquick/SimpleChatApp): </b> A chat app using: <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white), ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101), ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white), ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) <br> 
 Tested with: <br>
@@ -63,6 +59,7 @@ What next?: Back to some Spring Boot projects.. multiple microservices .. deploy
 |Project Name | Project Description |
 | ------------- | ------------- |
 | [SimpleGitHubAuth](https://github.com/tlquick/SimpleGitHubAuth)  | Demo using oAuth for login, circa 2023 |
+| [Vehicles API](https://github.com/tlquick/VehiclesAPI) | Demo using Postgres with Sequelize, circa 2023 |
 | [TrumpQuoteAPI](https://github.com/tlquick/TrumpQuoteAPI)  | Demo using mongoDB with tiny Express API, circa 2023  |
 | [ReactToDoCRUD](https://github.com/tlquick/ReactToDoCRUD)  | Demo using React to perform basic CRUD actions, circa 2020 |
 | [SimpleWeatherApp](https://github.com/tlquick/SimpleWeatherApp) | Demo using vanilla JS to consume weather API, circa 2020  |
