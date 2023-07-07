@@ -40,7 +40,7 @@ Tested with: <br> ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white), ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white),![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white), ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white), ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white), ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white), ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) <br>
 
 ## Under Construction <br>
-What next?: Back to some Spring Boot projects.. multiple microservices .. deployed through k8s on AWS.? spunds like fun :)
+What next?: Back to some Spring Boot projects.. multiple microservices .. deployed through k8s on AWS.? sounds like fun :)
 <br>
 
 ## Other Projects 
